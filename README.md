@@ -1,4 +1,4 @@
-# olympics_data_mining
+# Olympics Data Mining
 
 ## Questões:
 
