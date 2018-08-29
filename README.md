@@ -39,4 +39,4 @@
 
 7) Para "Medals", utilizamos valores booleanos, ou o atleta ganhou ou não ganhou a prova. Tiramos dados como "Bronze", "Prata" e "Ouro"
 
-
+8) Retiramos a coluna "Games", que basicamente concatenava o ano com o tipo da olimpiada(summer)
