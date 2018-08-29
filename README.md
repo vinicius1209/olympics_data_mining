@@ -22,6 +22,7 @@
 2) Retiramos a coluna "Games", que basicamente concatenava o ano com o tipo da olimpiada(summer)
 3) Fizemos um levantamento do numero de ganhadores de medalhas versus não ganhadores de nenhuma medalha
 4) Análise de questões (Quais utilizar para os estudos)
+5) Eliminamos todos os dados relacionados as olimpíadas de inverno
 
 ## Pré Processamento e limpeza de dados
 
@@ -39,4 +40,3 @@
 
 7) Para "Medals", utilizamos valores booleanos, ou o atleta ganhou ou não ganhou a prova. Tiramos dados como "Bronze", "Prata" e "Ouro"
 
-8) Retiramos a coluna "Games", que basicamente concatenava o ano com o tipo da olimpiada(summer)
